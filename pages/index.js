@@ -73,7 +73,7 @@ export default function Home() {
         type="text"/>
 
         <div>
-        <label>Anfangswert = </label>
+        <label>Anfangswert= </label>
         <input value={initialNumber}
           onChange={(event)=> setInitialNumber(event.target.value)}
          type="number"></input>
