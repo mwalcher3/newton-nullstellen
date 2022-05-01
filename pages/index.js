@@ -1,5 +1,5 @@
 import React from "react"
-import css from  "../styles/home.module.css"
+import css from  "../styles/Home.module.css"
 
 const evalPoly = (coeffList,x) => {
   var answer = 0
